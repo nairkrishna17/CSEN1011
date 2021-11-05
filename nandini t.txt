@@ -1,0 +1,8 @@
+Flowchart to find weather a number is prime or composite
+1. start
+2. accept a positive integer {number should be greater than 2 }
+3. intialise the counter 2
+4. divide in number with counter value
+5. if reminder is zero display that positive value is composite and etc
+6. else incrimant a counter repeat from step 4until the counter value is less than 2 
+7.  after completion of all steps display the number is 'x' is prime
