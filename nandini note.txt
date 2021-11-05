@@ -1,5 +1,9 @@
-1.Algorithm to add two numbers
-2.start
-3.accept the two numbers
-4.display the result
-5.stop
+flowchart to find wheather a number is prime or Composite
+1. start
+2. accept a positive integer( number greater than 2)
+3. initialise counter with a value 2
+4. divide the number is zero display the positive number is composite
+5. if the number is zero display te positive number is composite
+6. else incriminant the counter and repeat from step 4 untilthe counter value is less than 2
+7. after completion of all the steps display the number is prime 
+8. stop
